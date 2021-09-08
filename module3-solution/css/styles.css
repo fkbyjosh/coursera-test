@@ -61,7 +61,7 @@ h1 {
 }
 /*media queries
         lg-devices, md-devices, sm-devices*/
-@media (min-width: 576px) {
+@media (min-width: 768px) {
     .navbar-toggler, .navbar-collapse {
         display: none;
     }
